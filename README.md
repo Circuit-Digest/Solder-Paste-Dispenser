@@ -1,4 +1,4 @@
-# [Solder-Paste-Dispenser](https://circuitdigest.com/microcontroller-projects/)
+# [Solder-Paste-Dispenser](https://circuitdigest.com/microcontroller-projects/diy-solder-paste-dispenser-machine-using-atmega328-microcontroller)
 
 <img src="https://github.com/Circuit-Digest/Solder-Paste-Dispenser/blob/ded7e92407d3e6e633448703c2a8f634b1b58a29/Title%20Image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
